@@ -33,6 +33,12 @@ python app.py
 ```
 Visit `http://127.0.0.1:5000/` in your browser.
 
+## Demo
+
+![SentimentSleuth Demo](docs/screenshot.png)
+
+*Add a screenshot or GIF of the app in action! See `docs/README.md` for instructions.*
+
 ## Project Structure
 ```
 SentimentSleuth/
